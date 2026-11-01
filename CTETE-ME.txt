@@ -1,0 +1,23 @@
+TEAM PROGRESSIVE COACHES - INTERAKTIVNI NAVRH
+
+Otevrete index.html v aktualnim webovem prohlizeci.
+Neni potreba instalace, databaze ani spousteni prikazu.
+
+Co zkusit:
+1. Prohlednete uvod, tym a profily treneru.
+2. Vstupte do E-booku a vyberte ukazkovy produkt.
+3. Pridejte ho do kosiku a pokracujte objednavkou.
+4. Kliknete na Simulovat uspesnou platbu.
+5. V knihovne se e-book odemkne; ostatni zustanou zamcene.
+6. Prohlednete si ctecku a stahnete kratkou PDF ukazku.
+7. V paticce otevrete Ukazku administrace.
+
+Toto je pouze prezentacni vizualizace. E-booky, ceny, ucty a
+statistiky jsou ukazkove. Zadna platba ani odeslani formulare
+neprobiha. Pouzivejte pouze smyslene udaje.
+
+Fotografie, treneri, biografie a zavodni vysledky pochazeji
+z puvodniho webu Team Progressive Coaches.
+
+Demo se pamatuje pouze v danem prohlizeci. Do vychoziho stavu
+ho vratite: Muj ucet -> Zabezpeceni -> Resetovat demo.
